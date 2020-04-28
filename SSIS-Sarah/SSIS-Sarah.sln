@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS-Sarah", "SSIS-Sarah\SSIS-Sarah.dtproj", "{739B8F65-1E68-4B02-AD21-83C7CD69A1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739B8F65-1E68-4B02-AD21-83C7CD69A1D8}.Development|Default.ActiveCfg = Development
+		{739B8F65-1E68-4B02-AD21-83C7CD69A1D8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4600C343-99F2-4777-97A0-59F3F9C221C9}
+	EndGlobalSection
+EndGlobal
