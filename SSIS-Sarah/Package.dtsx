@@ -11,20 +11,20 @@
   DTS:LocaleID="4108"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{A95C2C52-9973-4554-9B6A-23E921254388}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{2E8FC1C7-5B21-4187-8432-9BB544E3D2E6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\Tâche SB"
+      DTS:refId="Package\Tâche Sarah B"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tâche de flux de données"
       DTS:DTSID="{E87F61E3-0E6D-4451-B281-8703825437D0}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
-      DTS:ObjectName="Tâche SB"
+      DTS:ObjectName="Tâche Sarah B"
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:ObjectData>
@@ -46,8 +46,8 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="124,42.6666666666667"
-          Id="Package\Tâche SB"
+          Size="152,42"
+          Id="Package\Tâche Sarah B"
           TopLeft="171.666664108634,68.4666654423873" />
       </GraphLayout>
     </LayoutInfo>
