@@ -11,8 +11,8 @@
   DTS:LocaleID="4108"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{F3342FAB-0D8D-4218-AE3E-E2E3DEA45BA0}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{2C5CFDEE-2D9F-44A1-B9D7-4472E581EEA5}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -28,13 +28,13 @@
       <DTS:Variables />
       <DTS:Executables>
         <DTS:Executable
-          DTS:refId="Package\Conteneur de séquences\Tâche SB"
+          DTS:refId="Package\Conteneur de séquences\Tâche Sarah B"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Tâche de flux de données"
           DTS:DTSID="{E87F61E3-0E6D-4451-B281-8703825437D0}"
           DTS:ExecutableType="Microsoft.Pipeline"
           DTS:LocaleID="-1"
-          DTS:ObjectName="Tâche SB"
+          DTS:ObjectName="Tâche Sarah B"
           DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
           <DTS:Variables />
           <DTS:ObjectData>
@@ -58,14 +58,14 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="124,42.6666666666667"
-          Id="Package\Conteneur de séquences\Tâche SB"
+          Size="152,42"
+          Id="Package\Conteneur de séquences\Tâche Sarah B"
           TopLeft="38.1666612898309,6.0333307220539" />
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="205.333333333334,104"
-          Size="205.333333333334,146.666666666667"
+          PanelSize="205,104"
+          Size="205,147"
           Id="Package\Conteneur de séquences"
           TopLeft="322.916661854833,97.0666649309794" />
       </GraphLayout>
